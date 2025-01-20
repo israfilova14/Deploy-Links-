@@ -1,0 +1,3 @@
+-------- Brandic Project --------
+Backend_Deploy_Url = https://brandnic-project-backend.vercel.app
+Frontend_Deploy_Url = https://brandnic-project-frontend.vercel.app
